@@ -31,3 +31,6 @@ set incsearch
 set wrapscan
 set hlsearch
 nmap <Esc><Esc> :nohlsearch<CR><Esc>
+
+source ~/dotfiles/.vim/dein.vim
+source ~/dotfiles/.vim/lightline.vim
