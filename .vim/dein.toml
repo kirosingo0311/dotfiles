@@ -6,3 +6,6 @@ repo = 'justinmk/vim-dirvish'
 
 [[plugins]]
 repo = 'itchyny/lightline.vim'
+
+[[plugins]]
+repo = 'fatih/vim-go'

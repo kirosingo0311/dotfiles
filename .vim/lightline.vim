@@ -1,4 +1,3 @@
-" lightline.vim
 let g:lightline = {
       \ 'colorscheme': 'one',
       \ 'component': {
@@ -8,5 +7,4 @@ let g:lightline = {
       \ 'subseparator': { 'left': "\u2b81", 'right': "\u2b83" },
       \ }
 
-" カラー設定
 set t_Co=256
